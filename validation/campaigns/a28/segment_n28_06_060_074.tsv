@@ -1,0 +1,2 @@
+mode	n	M	depth	first_index	last_index	prefix_count	frontier_count	roots_processed	count	status	elapsed_sec	nodes_per_sec	max_stack_len	max_value	double_pushes	odd_pushes
+segment	28	22876792454961	24	60	74	689	179	15	89293833363	SEGMENT	265.382528655	336472162.714	340	22874682882248	66970370498	22323462850

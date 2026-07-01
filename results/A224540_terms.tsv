@@ -1,0 +1,31 @@
+# n	a(n)	source	status
+0	1	OEIS b-file replay oracle	PASS
+1	2	OEIS b-file replay oracle	PASS
+2	4	OEIS b-file replay oracle	PASS
+3	12	OEIS b-file replay oracle	PASS
+4	36	OEIS b-file replay oracle	PASS
+5	106	OEIS b-file replay oracle	PASS
+6	249	OEIS b-file replay oracle	PASS
+7	613	OEIS b-file replay oracle	PASS
+8	1732	OEIS b-file replay oracle	PASS
+9	8028	OEIS b-file replay oracle	PASS
+10	23348	OEIS b-file replay oracle	PASS
+11	69370	OEIS b-file replay oracle	PASS
+12	210807	OEIS b-file replay oracle	PASS
+13	634839	OEIS b-file replay oracle	PASS
+14	1893582	OEIS b-file replay oracle	PASS
+15	5686389	OEIS b-file replay oracle	PASS
+16	17031777	OEIS b-file replay oracle	PASS
+17	51073675	OEIS b-file replay oracle	PASS
+18	153185957	OEIS b-file replay oracle	PASS
+19	459516225	OEIS b-file replay oracle	PASS
+20	1378707224	OEIS b-file replay oracle	PASS
+21	4135278456	OEIS b-file replay oracle	PASS
+22	12406199367	range campaign	COMPUTED
+23	37216010685	range campaign	COMPUTED
+24	111651745638	range campaign	COMPUTED
+25	334951946950	range campaign	COMPUTED
+26	1004855123675	segmented campaign	AGGREGATED_NO_ORACLE
+27	3014552251123	segmented campaign	AGGREGATED_NO_ORACLE
+28	9043690122807	segmented campaign	AGGREGATED_NO_ORACLE
+

@@ -1,0 +1,34 @@
+# A224540 certified term ledger.
+# This is not an OEIS a-file. The canonical OEIS-style b-file is data/b224540.txt.
+# Columns: n, a_n, certification_source, artifact.
+n	a_n	certification_source	artifact
+0	1	OEIS b-file replay oracle	data/b224540.txt
+1	2	OEIS b-file replay oracle	data/b224540.txt
+2	4	OEIS b-file replay oracle	data/b224540.txt
+3	12	OEIS b-file replay oracle	data/b224540.txt
+4	36	OEIS b-file replay oracle	data/b224540.txt
+5	106	OEIS b-file replay oracle	data/b224540.txt
+6	249	OEIS b-file replay oracle	data/b224540.txt
+7	613	OEIS b-file replay oracle	data/b224540.txt
+8	1732	OEIS b-file replay oracle	data/b224540.txt
+9	8028	OEIS b-file replay oracle	data/b224540.txt
+10	23348	OEIS b-file replay oracle	data/b224540.txt
+11	69370	OEIS b-file replay oracle	data/b224540.txt
+12	210807	OEIS b-file replay oracle	data/b224540.txt
+13	634839	OEIS b-file replay oracle	data/b224540.txt
+14	1893582	OEIS b-file replay oracle	data/b224540.txt
+15	5686389	OEIS b-file replay oracle	data/b224540.txt
+16	17031777	OEIS b-file replay oracle	data/b224540.txt
+17	51073675	OEIS b-file replay oracle	data/b224540.txt
+18	153185957	OEIS b-file replay oracle	data/b224540.txt
+19	459516225	OEIS b-file replay oracle	data/b224540.txt
+20	1378707224	OEIS b-file replay oracle	data/b224540.txt
+21	4135278456	OEIS b-file replay oracle	data/b224540.txt
+22	12406199367	range campaign	validation/campaigns/a22_a25/a22_a25.tsv
+23	37216010685	range campaign	validation/campaigns/a22_a25/a22_a25.tsv
+24	111651745638	range campaign	validation/campaigns/a22_a25/a22_a25.tsv
+25	334951946950	range campaign	validation/campaigns/a22_a25/a22_a25.tsv
+26	1004855123675	segmented campaign	validation/campaigns/a26/aggregate_n26.tsv
+27	3014552251123	segmented campaign	validation/campaigns/a27/aggregate_n27.tsv
+28	9043690122807	segmented campaign	validation/campaigns/a28/aggregate_n28.tsv
+

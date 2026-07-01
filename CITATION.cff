@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, data, or validation artifacts, please cite this repository and the accompanying paper."
+type: software
+title: "A224540: Computational extension through a(28) by truncated inverse Collatz-tree traversal"
+authors:
+  - family-names: Corti
+    given-names: Carlo
+    email: carlo.corti@outlook.com
+    affiliation: "Independent researcher"
+repository-code: "https://github.com/carcorti/A224540"
+url: "https://github.com/carcorti/A224540"
+doi: "10.5281/zenodo.xxxxxxxx"
+version: "v1.0-pre"
+license: MIT
+abstract: >-
+  This repository contains the code, OEIS-style b-file, result tables,
+  selected campaign and validation artifacts, and accompanying pre-release
+  paper for a computational extension of OEIS A224540 through a(28). The
+  computation uses a truncated inverse Collatz tree rooted at the terminal
+  value 1, with inclusive bound M = 3^n. Values a(22) through a(28) are
+  reported, with the largest terms produced by segmented subtree campaigns
+  and checked by an independent artifact-level validator.
+keywords:
+  - OEIS
+  - A224540
+  - Collatz
+  - 3x+1 problem
+  - inverse tree
+  - computational number theory
+  - b-file
+  - validation artifacts

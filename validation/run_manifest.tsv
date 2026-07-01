@@ -1,0 +1,6 @@
+scope	mode	n_min	n_max	depth	segment_files	elapsed_sec	result_artifact	status
+a22_a25	range	22	25		0	1634.339440650	validation/campaigns/a22_a25/a22_a25.tsv	COMPUTED
+a26	segmented	26	26	18	1	3021.577599397	validation/campaigns/a26/aggregate_n26.tsv	AGGREGATED_NO_ORACLE
+a27	segmented	27	27	20	2	9039.147276653	validation/campaigns/a27/aggregate_n27.tsv	AGGREGATED_NO_ORACLE
+a28	segmented	28	28	24	14	26987.874523042	validation/campaigns/a28/aggregate_n28.tsv	AGGREGATED_NO_ORACLE
+

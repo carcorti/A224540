@@ -1,0 +1,34 @@
+# Build directories and local run outputs
+build/
+runs/
+
+# C build products
+*.o
+src/*.o
+src/a224540
+src/a224540_san
+*_san
+
+# Python caches
+__pycache__/
+.cache/
+.pytest_cache/
+
+# LaTeX auxiliary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Temporary local files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+.DS_Store

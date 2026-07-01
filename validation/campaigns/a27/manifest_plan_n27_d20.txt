@@ -1,0 +1,14 @@
+program=a224540
+sequence=A224540
+created_utc=2026-06-29T07:16:37Z
+mode=plan
+status=PLAN
+n_min=27
+n_max=27
+numeric_limit=uint64_t states and counts; 3^n must fit uint64_t
+known_replay_cap=21
+c_standard=201710
+compiler=13.3.0
+build_date=Jun 28 2026 18:26:22
+build_cflags=-std=c17 -O3 -march=native -flto -funroll-loops -fomit-frame-pointer -DNDEBUG -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wdouble-promotion -Wformat=2
+command=./build/a224540 --plan 27 20 2 --tsv runs/a224540_campaign_a27/plan_n27_d20.tsv --manifest runs/a224540_campaign_a27/manifest_plan_n27_d20.txt

@@ -1,0 +1,2 @@
+mode	n	M	depth	prefix_count	frontier_count	segments	roots_processed	count	expected	status	elapsed_sec	nodes_per_sec	max_stack_len	max_value	double_pushes	odd_pushes
+aggregate	28	22876792454961	24	689	179	14	179	9043690122807		AGGREGATED_NO_ORACLE	0.000004729	1912389716887150336.000	453	22876792454960	6782767636708	2260922486098
