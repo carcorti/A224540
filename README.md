@@ -10,16 +10,14 @@ a(n) = #{ k >= 1 : max of the stopped Collatz trajectory of k is <= 3^n }.
 
 The bound is inclusive. The stopped trajectory of `1` is `[1]`, so `1` is counted for every `n >= 0`.
 
-## Pre-release metadata note
+## Publication metadata
 
-The files under `paper/` intentionally use the current pre-release names:
+This repository is the public GitHub/Zenodo release package for version `v1.0`.
 
 ```text
-paper/A224540_v5.tex
-paper/A224540_v5.pdf
+Repository: https://github.com/carcorti/A224540
+Zenodo DOI: 10.5281/zenodo.21096334
 ```
-
-These names are retained for the first GitHub/Zenodo upload. The Zenodo DOI is also intentionally left as the placeholder `10.5281/zenodo.xxxxxxxx` until the GitHub release has been archived by Zenodo. After the DOI is issued, update `README.md`, `CITATION.cff`, and the paper metadata in a follow-up commit or patch release.
 
 ## Main results
 
@@ -54,8 +52,8 @@ Additional result and certification tables are provided for cross-checking; they
 ├── LICENSE
 ├── CITATION.cff
 ├── paper
-│   ├── A224540_v5.pdf
-│   └── A224540_v5.tex
+│   ├── A224540.pdf
+│   └── A224540.tex
 ├── README.md
 ├── results
 │   └── A224540_terms.tsv
@@ -183,11 +181,11 @@ The validation summaries and ledgers under `validation/` document the certificat
 
 ## Paper
 
-The accompanying pre-release paper is:
+The accompanying paper is:
 
 ```text
-paper/A224540_v5.tex
-paper/A224540_v5.pdf
+paper/A224540.tex
+paper/A224540.pdf
 ```
 
 Title:
@@ -201,15 +199,13 @@ New Terms Through a(28) via a Truncated Inverse Collatz Tree
 
 Please cite the repository metadata in `CITATION.cff` and the accompanying paper.
 
-Current pre-release citation metadata:
+Citation metadata:
 
 ```text
 Carlo Corti, A224540: Computational extension through a(28) by truncated inverse Collatz-tree traversal, 2026.
 Repository: https://github.com/carcorti/A224540
-Zenodo DOI placeholder: 10.5281/zenodo.xxxxxxxx
+Zenodo DOI: 10.5281/zenodo.21096334
 ```
-
-After Zenodo archives the first GitHub release, replace the DOI placeholder with the issued DOI.
 
 ## License
 

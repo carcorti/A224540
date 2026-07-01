@@ -6,7 +6,7 @@
 |---|---|---|
 | campaign C source | `src/a224540.c` | `8ed5f93d41eca9ef53defad5d8266a3ff13b592eab8f57f307d2f491deadcf46` |
 | current C source | `src/a224540.c` | `8035683f7ba325158ffcbcc034c92411b563dd36a365679e827de770e3047c6c` |
-| Makefile | `src/Makefile` | `f8e7eb6fdb50620e9cff7b58515e149f8a97d2338c258ef56e0247fa87594c34` |
+| Makefile | `src/Makefile` | `707a997bf47abe5ec76ca2949db400f6372da69af574860c002c01b6c071c807` |
 | extended b-file | `data/b224540.txt` | `dee6553788e53f66b60f0196f1697b73d0eae1f15a85bd1ca044544c639c1b3d` |
 | independent validator | `tools/a224540_validate_new_results.py` | `cd33a4bd2a121117cd75657aec1030b7e9543ba904ff46e8e6700d705b8eab81` |
 

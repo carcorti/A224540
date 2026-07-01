@@ -2,7 +2,7 @@
 
 ## Date And Scope
 
-This raw GitHub-ready package validates the extension of A224540 through
+This GitHub/Zenodo release package validates the extension of A224540 through
 `a(28)`.
 
 ## Certified Values
@@ -53,4 +53,3 @@ python3 tools/a224540_validate_new_results.py
 ## Checksums
 
 See `validation/checksums.sha256` for the final package checksum sweep.
-
